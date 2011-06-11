@@ -1,0 +1,6 @@
+ # search history by initial string (autocomplete by history)
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+
+
+

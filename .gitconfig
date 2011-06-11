@@ -1,0 +1,10 @@
+[color]
+	branch = auto
+	diff = auto
+	status = auto
+	interactive = auto
+[user]
+	name = Anatoliy Chakkaev
+	email = anatoliy.chakkaev@flatsoft.ru
+[core]
+	excludesfile = /home/anatoliy/.gitignore
