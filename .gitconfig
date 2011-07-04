@@ -5,6 +5,6 @@
 	interactive = auto
 [user]
 	name = Anatoliy Chakkaev
-	email = anatoliy.chakkaev@flatsoft.ru
+	email = anatoliy.chakkaev@flatsoft.com
 [core]
 	excludesfile = /home/anatoliy/.gitignore

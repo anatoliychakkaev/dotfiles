@@ -1,6 +1,6 @@
  # .bashrc
 
-ubuntu-server-tip
+# ubuntu-server-tip
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
